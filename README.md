@@ -1,5 +1,4 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minho0315)](https://github.com/minho0315/github-readme-stats)
 
