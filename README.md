@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=e71837&height=300&section=header&text=Flame%20charismatic%20Minho&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=e71837&height=300&section=header&text=Flame%20charismatic%20Minho&fontSize=50)
 
 <h3><b>Hi there 👋</b></h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minho0315)](https://github.com/minho0315/github-readme-stats)
-</br>
+</br> -->
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
   <p align="center">
