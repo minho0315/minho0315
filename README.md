@@ -2,7 +2,7 @@
 
 <h3><b>Hi there 👋</b></h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minho0315)](https://github.com/minho0315/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minho0315)](https://github.com/minho0315/github-readme-stats) -->
 <!-- 
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
